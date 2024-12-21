@@ -10,7 +10,8 @@ public class Main {
 		
 		
 		 Student student = new Student();
-		 student.sayHello(); 
+		 student.sayHello();
+		 student.greet();
 		
 		 
 	}
