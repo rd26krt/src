@@ -11,4 +11,9 @@ public class Student {
 		
 	}
 
+	public void add() {
+		System.out.println("Adding two numbers");
+		
+	}
+
 }
